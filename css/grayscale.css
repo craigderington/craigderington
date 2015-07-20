@@ -147,7 +147,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/anime-night-sample-2979127-1500x1125.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -163,6 +163,9 @@ a:focus {
 .intro .intro-body .brand-heading {
     font-size: 40px;
 }
+.intro .intro-body .intro-sub-heading {
+    font-size: 32px;
+}
 
 .intro .intro-body .intro-text {
     font-size: 18px;
@@ -177,9 +180,12 @@ a:focus {
     .intro .intro-body .brand-heading {
         font-size: 100px;
     }
+	.intro .intro-body .intro-sub-heading {
+    font-size: 36px;
+	}
 
     .intro .intro-body .intro-text {
-        font-size: 26px;
+        font-size: 28px;
     }
 }
 

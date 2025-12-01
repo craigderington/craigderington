@@ -2,11 +2,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/craigderington/craigderington.github.io/refs/heads/master/assets/MicrosoftServer2016-Security.jpg" alt="security banner">
 </p>
-</p>
-<p align="left">
-### 👋 Hi, I'm Craig.  <a href="https://github.com/craigderington"><img src="https://img.shields.io/github/followers/craigderington?label=Follow&style=social" alt="Follow Me on GitHub"></a>
-</p>
-<p>I ❤️ Open Source, Linux, Docker and Automation. </p>
+
+## 👋 Hi, I'm Craig.  <a href="https://github.com/craigderington"><img src="https://img.shields.io/github/followers/craigderington?label=Follow&style=social" alt="Follow Me on GitHub"></a>
+
+### I ❤️ Open Source, Linux, Docker and Automation. 
 
 ---
 

@@ -4,9 +4,9 @@
 </p>
 </p>
 <p align="left">
-👋 Hi, I'm Craig.  <a href="https://github.com/craigderington"><img src="https://img.shields.io/github/followers/craigderington?label=Follow&style=social" alt="Follow Me on GitHub"></a><br/>
-I ❤️ Open Source, Linux, Docker and Automation.  
+### 👋 Hi, I'm Craig.  <a href="https://github.com/craigderington"><img src="https://img.shields.io/github/followers/craigderington?label=Follow&style=social" alt="Follow Me on GitHub"></a>
 </p>
+<p>I ❤️ Open Source, Linux, Docker and Automation. </p>
 
 ---
 
@@ -26,7 +26,7 @@ I ❤️ Open Source, Linux, Docker and Automation.
 ![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 
-#### 🧱 DevOps & Cloud Infra
+#### 🧱 DevOps & Cloud Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -39,7 +39,6 @@ I ❤️ Open Source, Linux, Docker and Automation.
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-00AAFF?logo=linux&logoColor=white)
-![i3wm](https://img.shields.io/badge/i3wm-4758B7?logo=i3&logoColor=white)
 
 ---
 

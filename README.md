@@ -1,75 +1,93 @@
-<!-- Banner (placeholder – I’ll design you a custom DevOps-themed graphic) -->
+<!-- 🚀 CUSTOM DARK DEVOPS BANNER COMING SOON -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/craigderington/craigderington.github.io/refs/heads/master/assets/MicrosoftServer2016-Security.jpg" alt="security banner">
 </p>
+<h2>👋 Hi, I'm Craig.</h2>
+<h4>I ❤️ Open Source, Linux, Docker and Automation. </h4>
+<p align="center">
+A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, high-availability systems — both on-prem and in the cloud.
+</p>
+<p align="center">
+<a href="https://github.com/craigderington"><img src="https://img.shields.io/github/followers/craigderington?label=Follow&style=social"></a>
+<a href="https://craigderington.github.io"><img src="https://img.shields.io/badge/Portfolio-Online-00ADEF?style=flat-square&logo=firefox-browser&logoColor=white"></a>
+</p>
 
-## 👋 Hi, I'm Craig.  <a href="https://github.com/craigderington"><img src="https://img.shields.io/github/followers/craigderington?label=Follow&style=social" alt="Follow Me on GitHub"></a>
 
-### I ❤️ Open Source, Linux, Docker and Automation. 
-
----
 
 ### 🧩 Current Focus
-- Architecting event-driven microservices using **Java Spring Boot**
-- Deploying and managing **k3s and microk8s clusters** across multiple nodes
-- **GitHub Actions CI/CD** + secure container delivery pipelines
-- **Network+ & Security+** career certification path
-
----
+- Architecting event-driven microservices using **Java Spring Boot** and **Python Automation Frameworks**
+- Managing **Multi-node Kubernetes clusters** with Rancher k3s and microk8s
+- **Secure CI/CD** pipelines & secret hygiene
+- Training for **Network+ & Security+ certifications**
 
 ### 🛠 Skills & Expertise
 
-#### 💻 Core Languages
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,flask,javascript,bash,docker,kubernetes,arch,linux,redhat,raspberrypi,postman&perline=12"/>
+</p>
 
-#### 🧱 DevOps & Cloud Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A7DF?logo=traefikproxy&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?logo=microsoft-azure&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?logo=microsoft-intune&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,nodejs,redis,postgres,mysql,neovim,bootstrap,html,jenkins,git,githubactions,aws&perline=12"/>
+</p>
 
-#### 🧰 Developer Workstation
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00AAFF?logo=linux&logoColor=white)
+#### 💻 Core Languages  
+**Java** · **Python** · **SQL** · **Bash**
 
----
+#### 🧱 DevOps & Cloud Infra  
+Docker · Kubernetes · Traefik · GitHub Actions · Azure AD · Intune
 
-### 📌 Featured Projects
+#### 🧰 Developer Workstation  
+Neovim · Arch Linux · Hyprland · Omarchy
 
-#### 🚚 FleetWave — Microservice Radio Fleet Management  
-🔹 Spring Boot • PostgreSQL • Docker • Cloud-ready
 
-🔹 100% API end-point coverage
 
-🔹 Full rewrite from legacy into distributed services  
+### 🚀 Featured Projects
 
-#### 🧑‍🍳 Menu Pilot: Club Menu Order Management
-🔹 Spring Boot • Postgres • Stripe integration
+#### 🚚 FleetWave  
+Microservice Radio Fleet Management System  
+🔹 Spring Boot • PostgreSQL • Docker  
+🔹 100% API endpoint coverage  
+🔹 Distributed, scalable architecture  
 
-🔹 Food Service Point of Sale
+<p align="left">
+  <a href="https://github.com/craigderington/fleetwave">
+    <img src="https://img.shields.io/badge/View_Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-🔹 Product Inventory Tracking
+#### 🧑‍🍳 Menu Pilot 🍽️🛫  
+Club Menu Ordering & Food Service Management  
+🔹 Stripe integration • Inventory tracking  
+🔹 Menu planning & bar management automation  
 
-🔹 Bar Inventory Management
+<p align="left">
+  <a href="https://github.com/craigderington/menu-pilot">
+    <img src="https://img.shields.io/badge/View_Menu_Pilot-CC0000?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  </a>
+</p>
 
-🔹 Menu Suggestion and Creation
+#### 🔁 Distributed Counters Demo on K3s  
+Autoscaling Python + Redis application deployed to HA Kubernetes  
+🔹 Multi-node Service Mesh  
+🔹 Example manifests + deployments  
+🔹 Infrastructure as Code patterns
 
-#### 🔁 Counters Demo on k3s  
-🔹 Python + Redis autoscaling demo on k3s or microk8s
+<p align="left">
+  <a href="https://github.com/craigderington/k3s-counters">
+    <img src="https://img.shields.io/badge/View_Project-005AF0?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </a>
+</p>
 
-🔹 Multi-Node cluster in High Availabity mode
-
-🔹 Deployment YAML
 
 
 ### 📫 Connect With Me
 
-📧 craig@craigderington.dev  
-🌐 [craigderington.github.io](https://craigderington.github.io)
+📧 **craig@craigderington.dev**  
+🌐 **https://craigderington.github.io**  
+💼 More project links & demos coming soon…
+
+
+
+<p align="center">
+<b>Thanks for stopping by — always building, always learning 🚀</b>
+</p>

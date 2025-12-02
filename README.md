@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/craigderington/craigderington.github.io/refs/heads/master/assets/MicrosoftServer2016-Security.jpg" alt="security banner">
 </p>
-<h2>👋 Hi, I'm Craig.</h2>
-<h4>I ❤️ Open Source, Linux, Docker and Automation. </h4>
+<h3>👋 Hi, I'm Craig. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I ❤️ Open Source, Linux, Docker and Automation.</h3>
 <p align="center">
 A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, high-availability systems — both on-prem and in the cloud.
 </p>
@@ -30,21 +29,21 @@ A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, hig
 <img src="https://skillicons.dev/icons?i=django,nodejs,redis,postgres,mysql,neovim,bootstrap,html,jenkins,git,githubactions,aws&perline=12"/>
 </p>
 
-#### 💻 Core Languages  
+### 💻 Core Languages  
 **Java** · **Python** · **SQL** · **Bash**
 
-#### 🧱 DevOps & Cloud Infra  
+### 🧱 DevOps & Cloud Infra  
 Docker · Kubernetes · Traefik · GitHub Actions · Azure AD · Intune
 
-#### 🧰 Developer Workstation  
+### 🧰 Developer Workstation  
 Neovim · Arch Linux · Hyprland · Omarchy
 
 
 
 ### 🚀 Featured Projects
 
-#### 🚚 FleetWave  
-Microservice Radio Fleet Management System  
+### 🚚 FleetWave  
+Radio Fleet Management System for Organizations  
 🔹 Spring Boot • PostgreSQL • Docker  
 🔹 100% API endpoint coverage  
 🔹 Distributed, scalable architecture  
@@ -55,18 +54,21 @@ Microservice Radio Fleet Management System
   </a>
 </p>
 
-#### 🧑‍🍳 Menu Pilot 🍽️🛫  
-Club Menu Ordering & Food Service Management  
-🔹 Stripe integration • Inventory tracking  
-🔹 Menu planning & bar management automation  
+### 🧑‍🍳 Tckt 🍽️🛫  
+A Modern Kitchen Queueing System on k3s
+🔹 Java, SpringBoot, Postgres and Kubernetes
+🔹 Horizontal scaling architecture
+🔹 Shared persistence  
+🔹 Distributed Processing
+🔹 Auto Updated UI
 
 <p align="left">
   <a href="https://github.com/craigderington/menu-pilot">
-    <img src="https://img.shields.io/badge/View_Menu_Pilot-CC0000?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Tckt-005AF0?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
 </p>
 
-#### 🔁 Distributed Counters Demo on K3s  
+### 🔁 Distributed Visitors Demo on k3s  
 Autoscaling Python + Redis application deployed to HA Kubernetes  
 🔹 Multi-node Service Mesh  
 🔹 Example manifests + deployments  

@@ -1,8 +1,8 @@
 <!-- 🚀 CUSTOM DARK DEVOPS BANNER COMING SOON -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/craigderington/craigderington.github.io/refs/heads/master/assets/MicrosoftServer2016-Security.jpg" alt="security banner">
+  <img src="https://raw.githubusercontent.com/craigderington/craigderington.github.io/refs/heads/master/MicrosoftServer2016-Security.png" alt="profile banner">
 </p>
-<h3>👋 Hi, I'm Craig. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I ❤️ Open Source, Linux, Docker and Automation.</h3>
+<h3>👋 Hi, I'm Craig.  I ❤️ Open Source, Linux, Docker and Automation.</h3>
 <p align="center">
 A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, high-availability systems — both on-prem and in the cloud.
 </p>

@@ -26,7 +26,7 @@ A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, hig
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,neovim,vscode,bootstrap,html,javascript,github,gitmerge,githubactions,jenkins,ansible,postman&perline=14"/>
+<img src="https://skillicons.dev/icons?i=aws,neovim,vscode,bootstrap,html,javascript,github,git,githubactions,jenkins,ansible,postman&perline=14"/>
 </p>
 
 ### 💻 Core Languages  

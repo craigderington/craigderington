@@ -50,7 +50,7 @@ Radio Fleet Management System for Organizations
 
 <p align="left">
   <a href="https://github.com/craigderington/fleetwave">
-    <img src="https://img.shields.io/badge/View_Repo-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Repo-005AF0?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 

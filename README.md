@@ -22,11 +22,11 @@ A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, hig
 ### 🛠 Skills & Expertise
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,flask,javascript,bash,docker,kubernetes,arch,linux,redhat,raspberrypi,postman&perline=12"/>
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,java,python,flask,django,bash,sqlite,redis,postgres,mysql&perline=14"/>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,nodejs,redis,postgres,mysql,neovim,bootstrap,html,jenkins,git,githubactions,aws&perline=12"/>
+<img src="https://skillicons.dev/icons?i=aws,neovim,vscode,bootstrap,html,javascript,github,gitmerge,githubactions,jenkins,ansible,postman&perline=14"/>
 </p>
 
 ### 💻 Core Languages  

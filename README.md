@@ -43,11 +43,11 @@ Neovim · Arch Linux · Hyprland · Omarchy
 
 ### k3s Observatory
 A beautiful, real-time 3D visualization dashboard that monitors Kubernetes clusters
--🔹 MicroK8s, k3s, minikube or Kubernetes (just link to your KUBECONFIG)
--🔹 Navigate your cluster in 3D space
--🔹 Clickable Nodes and Pods for Description, Logs and Metrics
--🔹 Toast notifications as events are triggered
--🔹 Namespace filter, total nodes and pods count
+ - MicroK8s, k3s, minikube or Kubernetes (just link to your KUBECONFIG)
+ - Navigate your cluster in 3D space
+ - Clickable Nodes and Pods for Description, Logs and Metrics
+ - Toast notifications as events are triggered
+ - Namespace filter, total nodes and pods count
 
 <p align="left">
   <a href="https://github.com/craigderington/k3s-observatory">
@@ -57,9 +57,9 @@ A beautiful, real-time 3D visualization dashboard that monitors Kubernetes clust
 
 ### 🚚 FleetWave  
 Radio Fleet Management System for Organizations  
--🔹 Spring Boot • PostgreSQL • Docker  
--🔹 100% API endpoint coverage  
--🔹 Distributed, scalable architecture  
+ - Spring Boot • PostgreSQL • Docker  
+ - 100% API endpoint coverage  
+ - Distributed, scalable architecture  
 
 <p align="left">
   <a href="https://github.com/craigderington/fleetwave">
@@ -69,11 +69,11 @@ Radio Fleet Management System for Organizations
 
 ### 🧑‍🍳 Tckt 🍽️🛫  
 A Modern Kitchen Queueing System on k3s
--🔹 Java, SpringBoot, Postgres and Kubernetes
--🔹 Horizontal scaling architecture
--🔹 Shared persistence  
--🔹 Distributed Processing
--🔹 Auto Updated UI
+ - Java, SpringBoot, Postgres and Kubernetes
+ - Horizontal scaling architecture
+ - Shared persistence  
+ - Distributed Processing
+ - Auto Updated UI
 
 <p align="left">
   <a href="https://github.com/craigderington/menu-pilot">
@@ -83,9 +83,9 @@ A Modern Kitchen Queueing System on k3s
 
 ### 🔁 Distributed Visitors Demo on k3s  
 Autoscaling Python + Redis application deployed to HA Kubernetes  
--🔹 Multi-node Service Mesh  
--🔹 Example manifests + deployments  
--🔹 Infrastructure as Code patterns
+ - Multi-node Service Mesh  
+ - Example manifests + deployments  
+ - Infrastructure as Code patterns
 
 <p align="left">
   <a href="https://github.com/craigderington/k3s-counters">

@@ -39,8 +39,21 @@ Docker · Kubernetes · Traefik · GitHub Actions · Azure AD · Intune
 Neovim · Arch Linux · Hyprland · Omarchy
 
 
-
 ### 🚀 Featured Projects
+
+### k3s Observatory
+A beautiful, real-time 3D visualization dashboard that monitors Kubernetes clusters
+🔹 MicroK8s, k3s, minikube or Kubernetes (just link to your KUBECONFIG)
+🔹 Navigate your cluster in 3D space
+🔹 Clickable Nodes and Pos for Description, Logs and Metrics
+🔹 Toast notifications as events are triggered
+🔹 Namespace filter, total nodes and pods count
+
+<p align="left">
+  <a href="https://github.com/craigderington/k3s-observatory">
+    <img src="https://img.shields.io/badge/View_Repo-11111b?style=for-the-badge&logo=github&logoColor=green" />
+  </a>
+</p>
 
 ### 🚚 FleetWave  
 Radio Fleet Management System for Organizations  

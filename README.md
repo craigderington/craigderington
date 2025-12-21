@@ -41,7 +41,22 @@ Neovim · Arch Linux · Hyprland · Omarchy
 
 ### 🚀 Featured Projects
 
-### k3s Observatory
+
+### 🏎️ F1 G-Force Sculptures Gallery
+An innovative 3D visualization of Formula 1 telemetry data that transforms driver performance into interactive sculptures.
+ - Multi-Driver Comparison.  Select up to 5 drivers.
+ - Interactive G-Force Tooltips
+ - Remove sculptures from the scene
+ - Team Colors UI (the UI color scheme changes based on the first driver selected.  
+ - Enhanced UI and UX, move around the sculptures in space.  Zoom in and out, drag and more.
+
+<p align="left">
+  <a href="https://github.com/craigderington/f1-sculptures">
+    <img src="https://img.shields.io/badge/View_Repo-ff0000?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+### 🛰️ k3s Observatory
 A beautiful, real-time 3D visualization dashboard that monitors Kubernetes clusters
  - MicroK8s, k3s, minikube or Kubernetes (just link to your KUBECONFIG)
  - Navigate your cluster in 3D space
@@ -78,18 +93,6 @@ A Modern Kitchen Queueing System on k3s
 <p align="left">
   <a href="https://github.com/craigderington/menu-pilot">
     <img src="https://img.shields.io/badge/View_Tckt-005AF0?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
-</p>
-
-### 🔁 Distributed Visitors Demo on k3s  
-Autoscaling Python + Redis application deployed to HA Kubernetes  
- - Multi-node Service Mesh  
- - Example manifests + deployments  
- - Infrastructure as Code patterns
-
-<p align="left">
-  <a href="https://github.com/craigderington/k3s-counters">
-    <img src="https://img.shields.io/badge/View_Project-005AF0?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
 </p>
 

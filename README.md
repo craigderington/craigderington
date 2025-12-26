@@ -70,15 +70,18 @@ A beautiful, real-time 3D visualization dashboard that monitors Kubernetes clust
   </a>
 </p>
 
-### 🚚 FleetWave  
-Radio Fleet Management System for Organizations  
- - Spring Boot • PostgreSQL • Docker  
- - 100% API endpoint coverage  
- - Distributed, scalable architecture  
+### prox 
+A modern process manager with a beautiful Terminal User Interface (TUI).   
+ - Inspired by pm2 
+ - Built with Go + Bubbletea  
+ - Monitor any process and stream logs, write logs to disk, start, stop and restart.
+ - Log Management
+ - State Persistence
+ - Real-time Metrics  
 
 <p align="left">
-  <a href="https://github.com/craigderington/fleetwave">
-    <img src="https://img.shields.io/badge/View_Repo-005AF0?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/craigderington/prox">
+    <img src="https://img.shields.io/badge/View_Repo-11111b?style=for-the-badge&logo=github&logoColor=red" />
   </a>
 </p>
 

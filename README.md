@@ -65,7 +65,7 @@ Grace Blackwell GB10 compute rental.  Pay for per-hour access to powerful LLM in
 
 <p align="left">
   <a href="https://gb10.studio" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repo-191970?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_Site-191970?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ An innovative 3D visualization of Formula 1 telemetry data that transforms drive
 
 <p align="left">
   <a href="https://github.com/craigderington/f1-sculptures">
-    <img src="https://img.shields.io/badge/View_Repo-ff0000?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Visit_Site-ff0000?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 

@@ -52,7 +52,7 @@ AI Powered Cybersecurity Incident Response Simulator
 
 <p align="left">
   <a href="https://firesale.run" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repo-11111b?style=for-the-badge&logo=github&logoColor=green" />
+    <img src="https://img.shields.io/badge/Visit_Site-11111b?style=for-the-badge&logo=github&logoColor=green" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ An innovative 3D visualization of Formula 1 telemetry data that transforms drive
 
 <p align="left">
   <a href="https://github.com/craigderington/f1-sculptures">
-    <img src="https://img.shields.io/badge/Visit_Site-ff0000?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/View_Repo-ff0000?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 

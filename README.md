@@ -41,6 +41,33 @@ Neovim · Arch Linux · Hyprland · Omarchy
 
 ### 🚀 Featured Projects
 
+### BREACH
+AI Powered Cybersecurity Incident Response Simulator
+ - Defend against Gabriel, a self-replicating adversarial AI that adapts, escalated and never stops
+ - Gabriel adapts to your moves in real time.  No scripted attacks.  No predictable patters. Every session is unique.
+ - Real TTPs, real CVEs and log formats.  Every attack maps to the new MITRE ATT&CK framework.
+ - Windows events, syslog, CEF.  The logs you see are the logs you'll see in a real SOC.
+ - AI generated debrief after every session.  What you did right, what you missed.  What to practice next.
+ - 10 firesale scenarios
+
+<p align="left">
+  <a href="https://firesale.run" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-11111b?style=for-the-badge&logo=github&logoColor=green" />
+  </a>
+</p>
+
+### GB10 Studio: GPU Compute Rental
+Grace Blackwell GB10 compute rental.  Pay for per-hour access to powerful LLM inference.
+ - Connect your favorite tools directly.
+ - OpenAI compatible endpoints, works with any OpenAI SDK client
+ - Only psy for the compute time you use.
+ - Grace Blackwell GB10 GPUs for fast inference
+
+<p align="left">
+  <a href="https://gb10.studio" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repo-191970?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ### 🏎️ F1 G-Force Sculptures Gallery
 An innovative 3D visualization of Formula 1 telemetry data that transforms driver performance into interactive sculptures.
@@ -82,20 +109,6 @@ A modern process manager with a beautiful Terminal User Interface (TUI).
 <p align="left">
   <a href="https://github.com/craigderington/prox">
     <img src="https://img.shields.io/badge/View_Repo-11111b?style=for-the-badge&logo=github&logoColor=red" />
-  </a>
-</p>
-
-### 🧑‍🍳 Tckt 🍽️🛫  
-A Modern Kitchen Queueing System on k3s
- - Java, SpringBoot, Postgres and Kubernetes
- - Horizontal scaling architecture
- - Shared persistence  
- - Distributed Processing
- - Auto Updated UI
-
-<p align="left">
-  <a href="https://github.com/craigderington/menu-pilot">
-    <img src="https://img.shields.io/badge/View_Tckt-005AF0?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </a>
 </p>
 

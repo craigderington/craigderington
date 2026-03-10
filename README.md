@@ -41,7 +41,7 @@ Neovim · Arch Linux · Hyprland · Omarchy
 
 ### 🚀 Featured Projects
 
-### BREACH
+### 🌎 BREACH
 AI Powered Cybersecurity Incident Response Simulator
  - Defend against Gabriel, a self-replicating adversarial AI that adapts, escalated and never stops
  - Gabriel adapts to your moves in real time.  No scripted attacks.  No predictable patters. Every session is unique.
@@ -56,7 +56,7 @@ AI Powered Cybersecurity Incident Response Simulator
   </a>
 </p>
 
-### GB10 Studio: GPU Compute Rental
+### 🥇 GB10 Studio: GPU Compute Rental
 Grace Blackwell GB10 compute rental.  Pay for per-hour access to powerful LLM inference.
  - Connect your favorite tools directly.
  - OpenAI compatible endpoints, works with any OpenAI SDK client

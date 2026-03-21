@@ -17,7 +17,6 @@ A Full Stack Developer & DevOps Engineer building resilient, fault-tolerant, hig
 - Architecting event-driven microservices using **Java Spring Boot** and **Python Automation Frameworks**
 - Managing **Multi-node Kubernetes clusters** with Rancher k3s and microk8s
 - **Secure CI/CD** pipelines & secret hygiene
-- Training for **Network+ & Security+ certifications**
 
 ### 🛠 Skills & Expertise
 
@@ -41,6 +40,20 @@ Neovim · Arch Linux · Hyprland · Omarchy
 
 ### 🚀 Featured Projects
 
+### ikanban.org
+Free Modern Kanban. Built for velocity.
+
+ - The Trello alternative that propels Teams to the Moon.  Fast & Agile.
+ - Real-time collaboration, drag-and-drop, automations, checklists, WebSocket live updates
+ - Full REST API Made 4 Agents 🤖
+ - Free forever, no credit card required
+
+<p align="left">
+  <a href="https://ikanban.org" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Site-2d0466?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ### 🌎 BREACH
 AI Powered Cybersecurity Incident Response Simulator
  - Defend against Gabriel, a self-replicating adversarial AI that adapts, escalated and never stops
@@ -56,11 +69,11 @@ AI Powered Cybersecurity Incident Response Simulator
   </a>
 </p>
 
-### 🥇 GB10 Studio: GPU Compute Rental
+### 🥇 GB10 Studio: GPU Compute Rental Platform
 Grace Blackwell GB10 compute rental.  Pay for per-hour access to powerful LLM inference.
  - Connect your favorite tools directly.
  - OpenAI compatible endpoints, works with any OpenAI SDK client
- - Only psy for the compute time you use.
+ - Only pay for the compute time you use.
  - Grace Blackwell GB10 GPUs for fast inference
 
 <p align="left">
@@ -97,7 +110,7 @@ A beautiful, real-time 3D visualization dashboard that monitors Kubernetes clust
   </a>
 </p>
 
-### prox 
+### prox
 A modern process manager with a beautiful Terminal User Interface (TUI).   
  - Inspired by pm2 
  - Built with Go + Bubbletea  

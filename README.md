@@ -101,49 +101,6 @@ me := Developer{
 
 ---
 
-## `./active --projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 [Vestix](https://vestix.org)
-Multi-tenant SaaS for independent landlords in the 10–50 unit segment.
-
-`Go` · `Next.js 14` · `PostgreSQL` · `Stripe Connect` · `RLS` · `Subdomain tenancy`
-
-</td>
-<td width="50%">
-
-### 👻 [GHOST CELL](https://ghostcell.net)
-Browser-based NSA operations simulator with real geospatial data and mission systems.
-
-`Next.js 14` · `shadcn/ui` · `Leaflet.js` · `Zustand` · `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 GB10 DGX Spark
-Local AI inference infrastructure running large models with 120GB unified memory.
-
-`NVIDIA` · `LM Studio` · `AI Agents` · `Go benchmarking` · `Python stress testing`
-
-</td>
-<td width="50%">
-
-### 🔐 OpenClaw
-Agent team framework with character-driven AI personas for compound AI systems.
-
-`AI Orchestration` · `Agent Architecture` · `Python` · `Go`
-
-</td>
-</tr>
-</table>
-
----
-
 ## `git log --stats`
 
 <div align="center">

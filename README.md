@@ -1,10 +1,5 @@
 ## Craig Derington
 
-Backend, infrastructure, AI tooling. Building at [gb10.studio](https://gb10.studio).
-Orlando, FL.
-
-&nbsp;
-
 ### Work
 
 I build resilient systems — on-prem and in the cloud. Go and Python on the backend, Next.js on the front, PostgreSQL underneath, Kubernetes around it.

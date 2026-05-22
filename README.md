@@ -2,13 +2,14 @@
 
 ### Work
 
-I build resilient systems — on-prem and in the cloud. Go and Python on the backend, Next.js on the front, PostgreSQL underneath, Kubernetes around it.
+I build resilient systems — on-prem and in the cloud. Go and Python on the backend, Next.js on the front, PostgreSQL underneath, and Docker everywhere.
 
 Currently:
 
+- **[Grace Squad](https://gracesquad.org)** — Coordinate your people.  Multiply your mission.
 - **[Vestix](https://vestix.org)** — multi-tenant SaaS for independent landlords.
-- **[GHOST CELL](https://ghostcell.net)** — browser-based operations simulator.
-- **[GB10 Studio](https://gb10.studio)** — local AI infrastructure on Grace Blackwell hardware.
+- **[GHOST CELL](https://ghostcell.net)** — browser-based covert network operations simulator.
+- **[GB10 Studio](https://gb10.studio)** — local AI inference on Grace Blackwell hardware.
 
 &nbsp;
 

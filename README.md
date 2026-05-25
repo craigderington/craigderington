@@ -2,7 +2,7 @@
 
 ### Work
 
-I build resilient systems — on-prem and in the cloud. Go and Python on the backend, Next.js on the front, PostgreSQL underneath, and Docker everywhere.
+I build resilient systems — on-prem and in the cloud. Go and Python on the backend, Next.js on the front, PostgreSQL underneath, and Docker all around it.
 
 Currently:
 

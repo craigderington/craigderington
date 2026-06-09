@@ -10,6 +10,7 @@ Currently:
 - **[Vestix](https://vestix.org)** — multi-tenant SaaS for independent landlords.
 - **[GHOST CELL](https://ghostcell.net)** — browser-based covert network operations simulator.
 - **[GB10 Studio](https://gb10.studio)** — local AI inference on Grace Blackwell hardware.
+- **[Lantern Productions](https://lanternproductions.studio/)** - lofi noir for work, study and chill.
 
 &nbsp;
 

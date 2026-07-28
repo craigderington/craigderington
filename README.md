@@ -6,12 +6,12 @@ I build resilient systems — on-prem and in the cloud. Go and Python on the bac
 
 Currently:
 
+- **[GB10 Studio](https://gb10.studio)** — local AI inference on Grace Blackwell hardware.
 - **[Grace Squad](https://gracesquad.org)** — Coordinate your people.  Multiply your mission.
 - **[Vestix](https://vestix.org)** — multi-tenant property management SaaS for Independent Landlords.
 - **[Curalis.care](https://curalisr.care)** - multi-tenant SaaS for Senior Care Coordination and Placement
 - **[GarageFlow Studio](https://garageflow.studio)** - Shop Management for Independent Garages
 - **[GHOST CELL](https://ghostcell.net)** — browser-based covert network operations simulator.
-- **[GB10 Studio](https://gb10.studio)** — local AI inference on Grace Blackwell hardware.
 - **[Lantern Productions](https://lanternproductions.studio/)** - lofi noir for work, study and chill.
 
 &nbsp;

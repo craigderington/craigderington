@@ -18,8 +18,9 @@ Currently:
 
 ### Selected repositories
 
+- [`lazytunnel`](https://github.com/craigderington/lazytunnel) - effortlessly manage all of your SSH tunnels. Go backend. 
 - [`prox`](https://github.com/craigderington/prox) — a modern process manager with a TUI. Go, Bubbletea.
-- [`netops`](https://github.com/craigderington/netops) - A network topology visualizer powered by mapcn and react.
+- [`netops`](https://github.com/craigderington/netops) - a network topology visualizer powered by mapcn and react.
 - [`lazyrestic`](https://github.com/craigderington/lazyrestic) — TUI for Restic backup repositories.
 - [`k3s-observatory`](https://github.com/craigderington/k3s-observatory) — real-time 3D visualization for k3s clusters.
 - [`skyterm`](https://github.com/craigderington/skyterm) — terminal-based astronomy.

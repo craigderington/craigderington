@@ -9,8 +9,9 @@ Currently:
 - **[GB10 Studio](https://gb10.studio)** — local AI inference on Grace Blackwell hardware.
 - **[Grace Squad](https://gracesquad.org)** — Coordinate your people.  Multiply your mission.
 - **[Vestix](https://vestix.org)** — multi-tenant property management SaaS for Independent Landlords.
-- **[Curalis.care](https://curalisr.care)** - multi-tenant SaaS for Senior Care Coordination and Placement
-- **[GarageFlow Studio](https://garageflow.studio)** - Shop Management for Independent Garages
+- **[Tradefix](https://tradefix.org)** - field service platform for HVAC, plumbing, electrical and other trades.
+- **[Curalis.care](https://curalisr.care)** - multi-tenant SaaS for Senior Care Coordination and Placement.
+- **[GarageFlow Studio](https://garageflow.studio)** - Shop Management for Independent Garages.
 - **[GHOST CELL](https://ghostcell.net)** — browser-based covert network operations simulator.
 - **[Lantern Productions](https://lanternproductions.studio/)** - lofi noir for work, study and chill.
 

@@ -15,7 +15,7 @@ Currently:
 - **[GHOST CELL](https://ghostcell.net)** — browser-based covert network operations simulator.
 - **[Open Graph Checker](https://ogcheck.org)** — Zero-cache Open Graph validator.
 - **[StatusPulse](https://statuspulse.org)** — multi-tenant uptime monitoring for agencies and MSPs.
-- **[iKanBan](https://ikanban.org) — Modern Kanban for Teams.  Built for velocity.
+- **[iKanBan](https://ikanban.org)** — Modern Kanban for Teams.  Built for velocity.
 - **[Lantern Productions](https://lanternproductions.studio/)** — lofi noir for work, study and chill.
 
 &nbsp;

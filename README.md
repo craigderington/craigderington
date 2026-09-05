@@ -6,17 +6,18 @@ I build resilient systems — on-prem and in the cloud. Go and Python on the bac
 
 Currently:
 
-- **[GB10 Studio](https://gb10.studio)** — local AI inference on Grace Blackwell hardware.
+- **[GB10 Studio](https://gb10.studio)** — Local AI inference on Grace Blackwell hardware.
+- **[navar.ch](https://navar.ch)** - Command the whole stack.  Docker Compose as a Service.
 - **[Grace Squad](https://gracesquad.org)** — Coordinate your people.  Multiply your mission.
-- **[Vestix](https://vestix.org)** — multi-tenant property management SaaS for Independent Landlords.
-- **[Tradefix](https://tradefix.org)** — field service platform for HVAC, plumbing, electrical and other trades.
-- **[Curalis.care](https://curalisr.care)** — multi-tenant SaaS for Senior Care Coordination and Placement.
+- **[Vestix](https://vestix.org)** — Multi-tenant property management SaaS for Independent Landlords.
+- **[Tradefix](https://tradefix.org)** — Field service platform for HVAC, plumbing, electrical and other trades.
+- **[Curalis.care](https://curalisr.care)** — Multi-tenant SaaS for Senior Care Coordination and Placement.
 - **[GarageFlow Studio](https://garageflow.studio)** — Shop Management for Independent Garages.
-- **[GHOST CELL](https://ghostcell.net)** — browser-based covert network operations simulator.
+- **[GHOST CELL](https://ghostcell.net)** — Covert network operations simulator.
 - **[Open Graph Checker](https://ogcheck.org)** — Zero-cache Open Graph validator.
-- **[StatusPulse](https://statuspulse.org)** — multi-tenant uptime monitoring for agencies and MSPs.
+- **[StatusPulse](https://statuspulse.org)** — Multi-tenant uptime monitoring for agencies and MSPs.
 - **[iKanBan](https://ikanban.org)** — Modern Kanban for Teams.  Built for velocity.
-- **[Lantern Productions](https://lanternproductions.studio/)** — lofi noir for work, study and chill.
+- **[Lantern Productions](https://lanternproductions.studio/)** — Lofi noir for work, study and chill.
 
 &nbsp;
 

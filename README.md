@@ -8,6 +8,7 @@ Currently:
 
 - **[GB10 Studio](https://gb10.studio)** — Local AI inference on Grace Blackwell hardware.
 - **[navar.ch](https://navar.ch)** - Command the whole stack.  Docker Compose as a Service.
+- **[Classline](https://classline.org/)** - Classline is a privacy-first, self-hostable school communication platform.
 - **[Grace Squad](https://gracesquad.org)** — Coordinate your people.  Multiply your mission.
 - **[Vestix](https://vestix.org)** — Multi-tenant property management SaaS for Independent Landlords.
 - **[Tradefix](https://tradefix.org)** — Field service platform for HVAC, plumbing, electrical and other trades.

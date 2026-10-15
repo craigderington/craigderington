@@ -7,7 +7,7 @@ I build resilient systems — on-prem and in the cloud. Go and Python on the bac
 Currently:
 
 - **[Catasterism](https://catasterism.xyz)** - An experimental cryptocurrency project exploring prime constellations and prime-gap searches with musl libc.
-- **[navar.ch](https://navar.ch)** - Command the whole stack.  Docker Compose as a Service.
+
 
 ### Contact
 
